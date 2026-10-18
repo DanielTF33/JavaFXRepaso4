@@ -1,0 +1,37 @@
+.root {
+    -fx-background-color: lightgoldenrodyellow;
+}
+
+#lblTitulo {
+    -fx-font-family: "MS Gothic";
+}
+
+.button {
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+
+#brnAnadir {
+    -fx-background-color: lightgreen;
+}
+
+#btnEliminar {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+
+#btnEliminar:hover {
+    -fx-background-color: lightblue;
+    -fx-text-fill: black;
+}
+
+#btnEliminar:hover {
+    -fx-background-color: lightblue;
+    -fx-text-fill: black;
+}
+
+#brnAnadir:hover {
+    -fx-background-color: lightblue;
+    -fx-text-fill: black;
+}
+
